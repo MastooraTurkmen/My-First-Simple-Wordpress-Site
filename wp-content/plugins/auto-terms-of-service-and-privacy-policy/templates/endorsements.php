@@ -1,0 +1,1 @@
+<div class="wpautoterms-endorsements"><?php echo wp_kses_post( $message ); ?></div>
